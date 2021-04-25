@@ -16,4 +16,4 @@
 <li>آرم دانشگاه بايد در صفحات جلد ابتدا و انتها بيايد.</li>
 </ol>
 </div>
-<p style="visiblity:hidden"></p>
+<p style="visiblity:hidden">https://pandao.github.io/editor.md/en.html</p>
